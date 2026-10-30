@@ -28,3 +28,7 @@ Develop projects independently.
 Gradually prepare for data science and artificial intelligence.
 
 More projects and learning milestones will be added as I progress.
+
+## Learning Progress
+
+Currently learning Git and GitHub to manage my programming projects.
